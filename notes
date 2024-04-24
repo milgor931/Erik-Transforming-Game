@@ -1,0 +1,41 @@
+Creat tutoral before start game where you teach player how to play
+
+game class:
+controler for entire game
+handle scenes and gameplay
+
+tutorial class:
+handle everthing related to playing the tutorial
+
+level class:
+create and draw levels.
+
+animation run at 8 frames per second
+
+
+a little bit of an offset between the background
+
+
+run: play when pressed (hold)
+idle robot: plays when player does nothing and is in robot mode
+shoot: key press. can shoot when run
+jump: key press. can shoot when jump and can jump when running
+transform: key press. cannot shoot or do anything else when animation plays.
+driving: can shoot maybe secondary weapon. can't shoot blaster? cannot jump
+idle car: plays when player does nothing and is in car modes
+blasterGet: plays on key press when first press shoot?
+useItem: key press (like shooting but different button)
+
+hold down z to grab blaster and have to hold z to keep blaster out. When z is let go, put away blaster.
+
+
+set up modes in next class!!!!
+
+
+
+when hold Z keeps repeating animtions
+
+
+when player face direction have two blasters one face right other face left......
+
+when switch scoll direction, wait to make leader follower until leader completely offscreen
